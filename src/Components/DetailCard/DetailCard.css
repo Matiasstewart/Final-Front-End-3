@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 15px;
+}
+
+.card-img-top{
+    margin-bottom: 15px;
+}
+
+.list-group{
+    list-style-type: none;
+    margin-bottom: 15px;
+}
+
+.linkDetail{
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+}
+
+.divBtnDetail{
+    margin-left: 30px;
+}
+
+.imgContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
